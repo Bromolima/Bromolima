@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bromolima
 - 👀 I’m interested in Chess and coding
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning react
 - 😄 Pronouns: he/him
 
 <!---
